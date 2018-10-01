@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P2LabIII</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Principal">Principal</string>
+    <string name="About">About</string>
+    <string name="Acerca">Acerca de:</string>
+    <string name="todo">TODO</string>
+    <string name="Time">0:00</string>
+    <string name="Concursante">Concursante</string>
+    <string name="Tiempo">Tiempo</string>
+    <string name="Reset">Reset</string>
+    <string name="Resete">Reset</string>
+    <string name="Segundos">5</string>
+    <string name="Segundo">30</string>
+    <string name="Minuto">1:00</string>
+    <string name="Minutos">2:00</string>
+</resources>
